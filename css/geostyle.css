@@ -1,0 +1,43 @@
+.displayNone {
+	display: none !important;
+}
+.has-error {
+	border:1px solid red !important;
+}
+.loginContainer .h3TextLogin {
+	text-align: center;
+	color: #40e0d0;
+	font-size: 30px;
+	
+}
+#messageStatus {
+	margin: 10px 10px;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+.registerContainer .h3TextRegister {
+	text-align: center;
+	color: #40e0d0;
+	font-size: 30px;
+}
+.mainPage1 {
+	text-align: center;
+	color: #40e0d0;
+	font-size: 30px;
+}
+.btn.btn-success , .btn.btn-link {
+	text-align: center;
+}
+#download .lrc {
+	background-color: #fff;
+	padding: 130px 0;
+
+}
+#download .jumbotron{
+	height: 300px;
+	overflow-x: auto;
+}
+#download .text-right, #download .text-left{
+	padding: 15px;
+}
